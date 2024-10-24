@@ -1,16 +1,57 @@
-# uts
+-------------------------------
+Nama: Gilang Bagus Tri Pambudi
+-
+Nim: 362358302148
+-
+Kelas: 2A TRPL
+-
+-------------------------------
+PROJECT UTS MOBILEDEVELOPMENT
+-
+-------------------------------
+Tampilan menu Login dengan Form:
+-
+-Email
+-
+-Password
+-
+![Tampilan Login](https://github.com/user-attachments/assets/41970bec-3ea6-4f7d-990d-3d97ff0d973a)
+-
+-------------------------------
+Tampilan Ketika melakukan Pendaftaran atau Registrasi, dengan mengisi:
+-
+-Nama
+-
+-Email
+-
+-Password
+-
+![Tampilan Register](https://github.com/user-attachments/assets/936b469a-ce3e-4f65-95ba-8d06783569bc)
+-
+-------------------------------
+Tampilan ketika Berhasil melakukan pendaftaran atau Registrasi
+-
+![Tampilan Registasi Sukses](https://github.com/user-attachments/assets/cdc273f8-8f44-4efe-85ff-30ed0cbb845e)
+-
+-------------------------------
+Tampilan ketika Berhasil melakukan Login
+-
+![Tampilan Login Sukses](https://github.com/user-attachments/assets/8796553d-44a3-4d7b-8475-973b2cd5f82a)
+-
+-------------------------------
+Tampilan dari menu Profile
+-
+![Tampilan Profile](https://github.com/user-attachments/assets/aa43f350-1bcb-47de-a87b-eb05e37e61f3)
+-
+-------------------------------
+Tampilan ketika keluar dari aplikasi
+-
+![Tampilan Home](https://github.com/user-attachments/assets/548ea02a-46cb-4359-a792-cca3c1d6d3e8)
+-
+-------------------------------
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
